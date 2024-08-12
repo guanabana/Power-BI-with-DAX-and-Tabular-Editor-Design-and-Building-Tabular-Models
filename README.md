@@ -1,0 +1,2 @@
+# Power-BI-with-DAX-and-Tabular-Editor-Design-and-Building-Tabular-Models.
+In this exercise I worked with a start schema model, the aim is create Calculation groups  wich will be added to the  model throwforward the Tabular Editor software. It requires to have knowledge about reports using Power Bi Desktop, Data analysis Expressions (DAX) in tabular models, Measures and DAX Time Intelligence Functions use.
