@@ -1,2 +1,2 @@
-*.txt linguist-language=T-SQL
-*.pbix linguist-language=T-SQL
+*.txt linguist-language=SQL
+*.pbix linguist-language=SQL
